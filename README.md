@@ -1,2 +1,2 @@
 # kaggle_gresearch_crypto
-G-Research Crypto Forecasting Kaggle Competition
+This repository contains my Notebook for the G-Research Crypto Forecasting Kaggle competition. The goal was to forecast short term returns in 14 popular cryptocurrencies. It required a Kaggle Notebook for submission that uses a provided python time-series API. I forecasted the returns via a linear regression model with features selected through Pearson correlation analysis and principal component analysis (PCA). The data used in this Kaggle Notebook can be found at [this link](https://www.kaggle.com/c/g-research-crypto-forecasting/data).
